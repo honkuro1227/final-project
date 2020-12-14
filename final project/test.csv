@@ -1,0 +1,72 @@
+Zone,conflict,count
+1,pass thru,1
+1,veh-veh,1
+2,pass thru,8
+2,veh-ped,9
+2,veh-veh,22
+3,pass thru,16
+3,veh-bike,1
+3,veh-ped,22
+3,veh-veh,96
+4,pass thru,25
+4,veh-ped,1
+4,veh-veh,18
+5,pass thru,5
+5,veh-veh,2
+6,pass thru,8
+6,veh-ped,1
+6,veh-veh,3
+7,pass thru,7
+7,veh-veh,4
+8,pass thru,11
+8,veh-ped,1
+8,veh-veh,7
+9,veh-veh,3
+10,veh-veh,1
+11,pass thru,7
+11,veh-bike,1
+11,veh-veh,3
+12,pass thru,8
+12,veh-veh,3
+13,pass thru,2
+13,veh-veh,3
+14,pass thru,5
+14,veh-bike,1
+14,veh-veh,5
+15,pass thru,1
+15,veh-veh,4
+16,pass thru,28
+16,veh-ped,11
+16,veh-veh,116
+17,pass thru,3
+17,veh-ped,3
+17,veh-veh,16
+18,pass thru,38
+18,veh-bike,1
+18,veh-ped,23
+18,veh-veh,34
+19,pass thru,10
+19,veh-ped,3
+19,veh-veh,13
+20,pass thru,6
+20,veh-ped,2
+20,veh-veh,4
+21,pass thru,4
+21,veh-veh,2
+22,veh-veh,1
+23,pass thru,5
+23,veh-bike,1
+23,veh-ped,1
+23,veh-veh,12
+24,pass thru,1
+24,veh-veh,6
+25,pass thru,44
+25,veh-ped,4
+25,veh-veh,40
+26,pass thru,59
+26,veh-ped,3
+26,veh-veh,54
+27,pass thru,30
+27,veh-veh,15
+17&18,veh-veh,1
+20 & 21,veh-veh,1

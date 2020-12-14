@@ -1,0 +1,180 @@
+Zone,t_start,event_type,size
+1,08,Passenger load,1
+1,09,Passenger unload,2
+1,14,Parked,2
+1,14,Passenger load,2
+1,15,Passenger load,1
+1,16,Passenger load,3
+1,17,Passenger load,2
+10,08,Passenger unload,4
+10,09,Passenger unload,8
+10,14,Passenger load,1
+10,14,Passenger unload,1
+10,16,Passenger load,1
+10,16,Passenger unload,1
+10,17,Passenger load,1
+10,17,Passenger unload,1
+11,08,Parked,7
+11,09,Parked,11
+11,14,Passenger load,7
+11,15,Passenger load,9
+11,16,Passenger load,15
+11,17,Passenger load,13
+12,08,Parked,8
+12,09,Parked,5
+12,09,Passenger unload,5
+12,14,Parked,6
+12,15,Parked,5
+12,16,Passenger load,16
+12,17,Parked,9
+12 & 13,09,Parked,1
+13,08,Passenger unload,8
+13,09,Parked,12
+13,14,Parked,8
+13,15,Passenger load,6
+13,16,Parked,4
+13,16,Passenger load,4
+13,17,Passenger load,15
+14,08,Passenger unload,8
+14,09,Passenger unload,23
+14,14,Passenger load,13
+14,15,Passenger load,16
+14,16,Passenger load,30
+14,17,Passenger load,20
+15,08,Passenger unload,1
+15,09,Passenger unload,2
+15,14,Passenger load,3
+15,15,Parked,1
+15,16,Passenger load,4
+15,17,Passenger load,5
+16,08,Passenger unload,137
+16,09,Passenger unload,165
+16,14,Passenger load,68
+16,15,Passenger load,86
+16,16,Passenger load,79
+16,17,Passenger load,123
+17,08,Passenger unload,38
+17,09,Passenger unload,47
+17,14,Passenger unload,4
+17,15,Passenger load,11
+17,16,Passenger load,18
+17,17,Passenger load,24
+17&18,09,Passenger unload,1
+18,08,Passenger unload,249
+18,09,Passenger unload,258
+18,14,Parked,48
+18,15,Passenger load,63
+18,16,Passenger load,110
+18,17,Passenger load,123
+19,08,Passenger unload,66
+19,09,Passenger unload,60
+19,14,Parked,13
+19,15,Passenger load,11
+19,16,Passenger load,25
+19,17,Passenger load,27
+2,08,Passenger unload,133
+2,09,Passenger unload,48
+2,14,Parked,27
+2,14,Un-parked,27
+2,15,Parked,38
+2,16,Passenger load,81
+2,17,Passenger load,90
+20,08,Passenger unload,22
+20,09,Passenger unload,22
+20,14,Parked,12
+20,15,Parked,15
+20,16,Passenger load,20
+20,17,Passenger load,21
+20 & 21,09,Parked,2
+21,08,Passenger unload,13
+21,09,Passenger unload,6
+21,14,Passenger load,3
+21,15,Passenger load,3
+21,16,Passenger load,12
+21,17,Parked,2
+21,17,Passenger load,2
+22,08,Passenger unload,2
+22,09,Passenger unload,3
+22,14,Un-parked,1
+22,16,Passenger load,2
+22,17,Passenger load,3
+23,08,Parked,25
+23,09,Passenger unload,26
+23,14,Parked,37
+23,15,Parked,37
+23,16,Parked,39
+23,17,Parked,49
+24,08,Parked,11
+24,09,Parked,18
+24,09,Passenger unload,18
+24,14,Parked,10
+24,15,Parked,10
+24,16,Parked,16
+24,17,Passenger load,14
+24 & 23,08,Parked,1
+25,08,Passenger unload,156
+25,09,Passenger unload,170
+25,14,Parked,35
+25,15,Passenger load,56
+25,16,Passenger load,69
+25,17,Passenger load,75
+26,08,Passenger unload,90
+26,09,Passenger unload,137
+26,14,Passenger load,34
+26,15,Passenger load,59
+26,16,Passenger load,72
+26,17,Passenger load,71
+27,08,Passenger unload,47
+27,09,Passenger unload,60
+27,14,Parked,21
+27,15,Parked,21
+27,16,Passenger load,24
+27,17,Parked,36
+27,17,Passenger load,36
+28,08,Passenger unload,2
+28,16,Passenger load,1
+28,16,Passenger unload,1
+28,17,Passenger load,1
+3,08,Passenger unload,115
+3,09,Passenger unload,156
+3,14,Passenger load,44
+3,15,Passenger load,61
+3,16,Passenger load,63
+3,17,Passenger load,75
+4,08,Passenger unload,108
+4,09,Passenger unload,114
+4,14,Passenger load,37
+4,15,Passenger load,33
+4,16,Passenger load,67
+4,17,Passenger load,89
+5,08,Passenger unload,10
+5,09,Passenger unload,13
+5,14,Parked,13
+5,15,Parked,7
+5,16,Passenger load,13
+5,17,Passenger load,18
+6,08,Passenger unload,21
+6,09,Passenger unload,16
+6,14,Parked,8
+6,14,Passenger load,8
+6,15,Passenger load,18
+6,16,Passenger load,21
+6,17,Passenger load,16
+7,08,Passenger unload,20
+7,09,Passenger unload,14
+7,14,Parked,6
+7,15,Passenger load,13
+7,16,Passenger load,22
+7,17,Passenger load,18
+8,08,Passenger unload,58
+8,09,Passenger unload,56
+8,14,Parked,44
+8,15,Parked,26
+8,16,Passenger load,38
+8,17,Passenger load,39
+9,08,Passenger unload,1
+9,14,Passenger load,2
+9,15,Passenger load,1
+9,15,Passenger unload,1
+9,16,Passenger load,1
+9,17,Passenger load,3

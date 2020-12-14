@@ -1,0 +1,129 @@
+Zone,veh_type,size
+1,Large passenger vehicle,2
+1,Passenger vehicle,2
+1,TNC,11
+10,Large passenger vehicle,2
+10,Passenger vehicle,10
+10,TNC,7
+11,Large passenger vehicle,6
+11,Passenger vehicle,47
+11,TNC,62
+11,Truck,7
+11,Truck/Large passenger van,1
+12,Large passenger vehicle,7
+12,Passenger vehicle,35
+12,TNC,39
+12,Taxi,1
+12,Truck,6
+12 & 13,Truck,1
+13,Large passenger vehicle,4
+13,Passenger vehicle,42
+13,TNC,34
+13,Truck,4
+14,Large passenger vehicle,4
+14,Passenger vehicle,77
+14,TNC,72
+14,Taxi,2
+14,Truck,6
+15,Motorcycle,1
+15,Passenger vehicle,9
+15,TNC,8
+15,Truck,2
+16,Large passenger vehicle,1
+16,Passenger vehicle,213
+16,TNC,524
+16,Taxi,9
+17,Large passenger vehicle,3
+17,Passenger vehicle,59
+17,TNC,117
+17,Taxi,3
+17,Truck,2
+17&18,Large passenger vehicle,1
+18,Large passenger vehicle,29
+18,Passenger vehicle,537
+18,TNC,567
+18,Taxi,6
+18,Truck,13
+18,Truck/Large passenger van,2
+19,Large passenger vehicle,9
+19,Passenger vehicle,125
+19,TNC,129
+19,Taxi,3
+19,Truck,1
+2,Large passenger vehicle,105
+2,Passenger vehicle,267
+2,TNC,312
+2,Taxi,5
+2,Truck,5
+20,Large passenger vehicle,16
+20,Passenger vehicle,93
+20,TNC,60
+20,Truck,8
+20,Truck/Large passenger van,1
+20 & 21,Large passenger vehicle,1
+20 & 21,Truck,1
+21,Large passenger vehicle,2
+21,Passenger vehicle,12
+21,TNC,33
+21,Truck,1
+22,Passenger vehicle,8
+22,TNC,4
+23,Large passenger vehicle,5
+23,Motorcycle,1
+23,Passenger vehicle,270
+23,TNC,98
+23,Truck,21
+24,Large passenger vehicle,4
+24,Passenger vehicle,82
+24,TNC,52
+24,Truck,13
+24 & 23,Truck,1
+25,Large passenger vehicle,9
+25,Passenger vehicle,400
+25,TNC,349
+25,Taxi,2
+25,Truck,18
+26,Large passenger vehicle,1
+26,Passenger vehicle,143
+26,TNC,372
+26,Truck,1
+27,Large passenger vehicle,24
+27,Passenger vehicle,176
+27,TNC,134
+27,Taxi,2
+27,Truck,14
+28,Passenger vehicle,2
+28,TNC,3
+3,Large passenger vehicle,6
+3,Passenger vehicle,133
+3,TNC,434
+3,Taxi,5
+3,Truck,3
+4,Large passenger vehicle,10
+4,Motorcycle,1
+4,Passenger vehicle,302
+4,TNC,294
+4,Taxi,5
+4,Truck,12
+5,Large passenger vehicle,2
+5,Passenger vehicle,70
+5,TNC,35
+5,Taxi,1
+5,Truck,6
+6,Large passenger vehicle,4
+6,Passenger vehicle,86
+6,TNC,65
+6,Taxi,1
+6,Truck,2
+7,Large passenger vehicle,1
+7,Passenger vehicle,72
+7,TNC,50
+7,Taxi,1
+7,Truck,4
+8,Large passenger vehicle,3
+8,Motorcycle,1
+8,Passenger vehicle,269
+8,TNC,155
+8,Truck,21
+9,Passenger vehicle,6
+9,TNC,8

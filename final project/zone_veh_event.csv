@@ -1,0 +1,314 @@
+Zone,veh_type,event_type,count
+1,Large passenger vehicle,Parked,2
+1,Passenger vehicle,Passenger load,1
+1,Passenger vehicle,Passenger unload,1
+1,TNC,Passenger load,9
+1,TNC,Passenger unload,2
+2,Large passenger vehicle,Parked,74
+2,Large passenger vehicle,Passenger load,4
+2,Large passenger vehicle,Un-parked,27
+2,Passenger vehicle,Parked,82
+2,Passenger vehicle,Passenger load,89
+2,Passenger vehicle,Passenger unload,89
+2,Passenger vehicle,Un-parked,7
+2,TNC,Parked,39
+2,TNC,Passenger load,135
+2,TNC,Passenger load/unload,1
+2,TNC,Passenger unload,132
+2,TNC,Un-parked,5
+2,Taxi,Parked,3
+2,Taxi,Passenger unload,2
+2,Truck,Parked,4
+2,Truck,Un-parked,1
+3,Large passenger vehicle,Parked,2
+3,Large passenger vehicle,Passenger unload,4
+3,Passenger vehicle,Parked,7
+3,Passenger vehicle,Passenger load,38
+3,Passenger vehicle,Passenger unload,88
+3,TNC,Parked,14
+3,TNC,Passenger load,213
+3,TNC,Passenger load/unload,2
+3,TNC,Passenger unload,205
+3,Taxi,Passenger unload,5
+3,Truck,Parked,3
+4,Large passenger vehicle,Parked,8
+4,Large passenger vehicle,Passenger load,1
+4,Large passenger vehicle,Passenger unload,1
+4,Motorcycle,Parked,1
+4,Passenger vehicle,Parked,84
+4,Passenger vehicle,Passenger load,112
+4,Passenger vehicle,Passenger unload,96
+4,Passenger vehicle,Un-parked,9
+4,Passenger vehicle,unknown,1
+4,TNC,Parked,22
+4,TNC,Passenger load,123
+4,TNC,Passenger load/unload,1
+4,TNC,Passenger unload,146
+4,TNC,Un-parked,1
+4,TNC,unknown,1
+4,Taxi,Parked,3
+4,Taxi,Passenger load,1
+4,Taxi,Un-parked,1
+4,Truck,Parked,11
+4,Truck,Passenger load,1
+5,Large passenger vehicle,Parked,1
+5,Large passenger vehicle,Passenger load,1
+5,Passenger vehicle,Parked,28
+5,Passenger vehicle,Passenger load,22
+5,Passenger vehicle,Passenger unload,19
+5,Passenger vehicle,Un-parked,1
+5,TNC,Parked,5
+5,TNC,Passenger load,21
+5,TNC,Passenger unload,9
+5,Taxi,Passenger unload,1
+5,Truck,Parked,5
+5,Truck,Un-parked,1
+6,Large passenger vehicle,Parked,4
+6,Passenger vehicle,Parked,28
+6,Passenger vehicle,Passenger load,29
+6,Passenger vehicle,Passenger unload,28
+6,Passenger vehicle,Un-parked,1
+6,TNC,Parked,16
+6,TNC,Passenger load,34
+6,TNC,Passenger unload,15
+6,Taxi,Parked,1
+6,Truck,Parked,1
+6,Truck,Passenger unload,1
+7,Large passenger vehicle,Parked,1
+7,Passenger vehicle,Parked,19
+7,Passenger vehicle,Passenger load,32
+7,Passenger vehicle,Passenger unload,19
+7,Passenger vehicle,Un-parked,2
+7,TNC,Parked,7
+7,TNC,Passenger load,26
+7,TNC,Passenger unload,17
+7,Taxi,Passenger unload,1
+7,Truck,Parked,4
+8,Large passenger vehicle,Parked,3
+8,Motorcycle,Parked,1
+8,Passenger vehicle,Parked,124
+8,Passenger vehicle,Passenger load,61
+8,Passenger vehicle,Passenger unload,79
+8,Passenger vehicle,Un-parked,5
+8,TNC,None,1
+8,TNC,Parked,45
+8,TNC,Passenger load,59
+8,TNC,Passenger unload,50
+8,Truck,Parked,17
+8,Truck,Un-parked,4
+9,Passenger vehicle,Passenger load,3
+9,Passenger vehicle,Passenger unload,3
+9,TNC,Parked,2
+9,TNC,Passenger load,4
+9,TNC,Passenger unload,2
+10,Large passenger vehicle,Passenger unload,2
+10,Passenger vehicle,Passenger unload,10
+10,TNC,Passenger load,4
+10,TNC,Passenger unload,3
+11,Large passenger vehicle,Parked,4
+11,Large passenger vehicle,Passenger unload,1
+11,Large passenger vehicle,Un-parked,1
+11,Passenger vehicle,Parked,18
+11,Passenger vehicle,Passenger load,18
+11,Passenger vehicle,Passenger unload,9
+11,Passenger vehicle,Un-parked,2
+11,TNC,Parked,21
+11,TNC,Passenger load,32
+11,TNC,Passenger unload,8
+11,TNC,Un-parked,1
+11,Truck,Parked,5
+11,Truck,Un-parked,2
+11,Truck/Large passenger van,Parked,1
+12,Large passenger vehicle,Parked,7
+12,Passenger vehicle,Parked,15
+12,Passenger vehicle,Passenger load,14
+12,Passenger vehicle,Passenger unload,6
+12,TNC,Parked,10
+12,TNC,Passenger load,20
+12,TNC,Passenger unload,9
+12,Taxi,Passenger load,1
+12,Truck,Parked,5
+12,Truck,Un-parked,1
+13,Large passenger vehicle,Parked,3
+13,Large passenger vehicle,Passenger load,1
+13,Passenger vehicle,Parked,15
+13,Passenger vehicle,Passenger load,15
+13,Passenger vehicle,Passenger unload,11
+13,Passenger vehicle,Un-parked,1
+13,TNC,Parked,13
+13,TNC,Passenger load,13
+13,TNC,Passenger unload,8
+13,Truck,Parked,3
+13,Truck,Un-parked,1
+14,Large passenger vehicle,Parked,2
+14,Large passenger vehicle,Un-parked,2
+14,Passenger vehicle,Parked,18
+14,Passenger vehicle,Passenger load,42
+14,Passenger vehicle,Passenger unload,14
+14,Passenger vehicle,Un-parked,3
+14,TNC,Parked,12
+14,TNC,Passenger load,42
+14,TNC,Passenger unload,18
+14,Taxi,Passenger unload,2
+14,Truck,Parked,5
+14,Truck,Un-parked,1
+15,Motorcycle,Parked,1
+15,Passenger vehicle,Parked,1
+15,Passenger vehicle,Passenger load,4
+15,Passenger vehicle,Passenger load/unload,1
+15,Passenger vehicle,Passenger unload,3
+15,TNC,Passenger load,8
+15,Truck,Parked,2
+16,Large passenger vehicle,Passenger unload,1
+16,Passenger vehicle,Parked,9
+16,Passenger vehicle,Passenger load,88
+16,Passenger vehicle,Passenger unload,114
+16,Passenger vehicle,Un-parked,1
+16,Passenger vehicle,unknown,1
+16,TNC,Parked,11
+16,TNC,Passenger load,277
+16,TNC,Passenger load/unload,2
+16,TNC,Passenger unload,234
+16,Taxi,Passenger load,1
+16,Taxi,Passenger unload,8
+17,Large passenger vehicle,Passenger load/unload,1
+17,Large passenger vehicle,Passenger unload,2
+17,Passenger vehicle,Parked,15
+17,Passenger vehicle,Passenger load,16
+17,Passenger vehicle,Passenger unload,28
+17,TNC,Parked,6
+17,TNC,Passenger load,42
+17,TNC,Passenger load/unload,2
+17,TNC,Passenger unload,66
+17,TNC,Un-parked,1
+17,Taxi,Passenger unload,3
+17,Truck,Parked,2
+18,Large passenger vehicle,Parked,20
+18,Large passenger vehicle,Passenger unload,9
+18,Passenger vehicle,Parked,104
+18,Passenger vehicle,Passenger load,177
+18,Passenger vehicle,Passenger unload,246
+18,Passenger vehicle,Un-parked,10
+18,TNC,Parked,85
+18,TNC,Passenger load,158
+18,TNC,Passenger load/unload,2
+18,TNC,Passenger unload,316
+18,TNC,Un-parked,5
+18,TNC,unknown,1
+18,Taxi,Parked,2
+18,Taxi,Passenger load,2
+18,Taxi,Passenger unload,2
+18,Truck,Parked,9
+18,Truck,Passenger load,1
+18,Truck,Passenger unload,1
+18,Truck,Un-parked,2
+18,Truck/Large passenger van,Parked,2
+19,Large passenger vehicle,Parked,7
+19,Large passenger vehicle,Passenger unload,2
+19,Passenger vehicle,Parked,31
+19,Passenger vehicle,Passenger load,36
+19,Passenger vehicle,Passenger unload,55
+19,Passenger vehicle,Un-parked,3
+19,TNC,Parked,15
+19,TNC,Passenger load,29
+19,TNC,Passenger unload,85
+19,Taxi,Passenger load,1
+19,Taxi,Passenger unload,2
+19,Truck,Parked,1
+20,Large passenger vehicle,Parked,15
+20,Large passenger vehicle,Un-parked,1
+20,Passenger vehicle,Parked,33
+20,Passenger vehicle,Passenger load,33
+20,Passenger vehicle,Passenger unload,24
+20,Passenger vehicle,Un-parked,3
+20,TNC,Parked,9
+20,TNC,Passenger load,21
+20,TNC,Passenger unload,30
+20,Truck,Parked,7
+20,Truck,Un-parked,1
+20,Truck/Large passenger van,Parked,1
+21,Large passenger vehicle,Parked,2
+21,Passenger vehicle,Parked,1
+21,Passenger vehicle,Passenger load,5
+21,Passenger vehicle,Passenger unload,6
+21,TNC,Parked,1
+21,TNC,Passenger load,16
+21,TNC,Passenger unload,16
+21,Truck,Parked,1
+22,Passenger vehicle,Passenger load,4
+22,Passenger vehicle,Passenger unload,3
+22,Passenger vehicle,Un-parked,1
+22,TNC,Passenger load,2
+22,TNC,Passenger unload,2
+23,Large passenger vehicle,Parked,3
+23,Large passenger vehicle,Un-parked,2
+23,Motorcycle,Parked,1
+23,Passenger vehicle,Parked,181
+23,Passenger vehicle,Passenger load,47
+23,Passenger vehicle,Passenger unload,20
+23,Passenger vehicle,Un-parked,22
+23,TNC,Parked,12
+23,TNC,Passenger load,47
+23,TNC,Passenger unload,38
+23,TNC,Un-parked,1
+23,Truck,Parked,11
+23,Truck,Un-parked,10
+24,Large passenger vehicle,Parked,3
+24,Large passenger vehicle,Passenger unload,1
+24,Passenger vehicle,Parked,56
+24,Passenger vehicle,Passenger load,12
+24,Passenger vehicle,Passenger unload,12
+24,Passenger vehicle,Un-parked,2
+24,TNC,Parked,8
+24,TNC,Passenger load,24
+24,TNC,Passenger unload,20
+24,Truck,Parked,11
+24,Truck,Un-parked,2
+25,Large passenger vehicle,Parked,8
+25,Large passenger vehicle,Passenger load,1
+25,Passenger vehicle,Parked,131
+25,Passenger vehicle,Passenger load,109
+25,Passenger vehicle,Passenger unload,152
+25,Passenger vehicle,Un-parked,8
+25,TNC,Parked,6
+25,TNC,Passenger load,123
+25,TNC,Passenger load/unload,2
+25,TNC,Passenger unload,218
+25,Taxi,Passenger load,1
+25,Taxi,Passenger unload,1
+25,Truck,Parked,11
+25,Truck,Passenger load,1
+25,Truck,Passenger unload,1
+25,Truck,Un-parked,5
+26,Large passenger vehicle,Passenger unload,1
+26,Passenger vehicle,Parked,18
+26,Passenger vehicle,Passenger load,44
+26,Passenger vehicle,Passenger unload,81
+26,TNC,Parked,5
+26,TNC,Passenger load,198
+26,TNC,Passenger unload,169
+26,Truck,Parked,1
+27,Large passenger vehicle,Parked,18
+27,Large passenger vehicle,Passenger unload,3
+27,Large passenger vehicle,Un-parked,3
+27,Passenger vehicle,Parked,90
+27,Passenger vehicle,Passenger load,35
+27,Passenger vehicle,Passenger unload,44
+27,Passenger vehicle,Un-parked,7
+27,TNC,Parked,9
+27,TNC,Passenger load,60
+27,TNC,Passenger unload,65
+27,Taxi,Parked,1
+27,Taxi,Passenger unload,1
+27,Truck,Parked,12
+27,Truck,Passenger load,1
+27,Truck,Un-parked,1
+28,Passenger vehicle,Passenger load,1
+28,Passenger vehicle,Passenger unload,1
+28,TNC,Passenger load,1
+28,TNC,Passenger unload,2
+12 & 13,Truck,Parked,1
+17&18,Large passenger vehicle,Passenger unload,1
+20 & 21,Large passenger vehicle,Parked,1
+20 & 21,Truck,Parked,1
+24 & 23,Truck,Parked,1

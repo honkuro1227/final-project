@@ -10,9 +10,11 @@ Nowadays, the fraud detection is very popular issue in deep learning world, beca
 Currently, the text detection is the very popular topic. However, there are seldom article talks about font classification. In the fraud detection, the font type continuous is the important feature to distinguish the fake id. Therefore, this article will focus on the font classification.
 
 ## Related Work
-First, using the synthetic dataset on training text task is common approach, because training needs lots of data and label this data needs lots of time. Therefore, inspired by SyntheText, this project use the synthetic data to training network. 
+First, using the synthetic dataset on training text task is common approach, because training needs lots of data and label this data needs lots of time. Therefore, inspired by SyntheText, this project use the synthetic data to training network. However, the original project use lots of natural images, which are too complex to training, so I only collected the driver lisences from each state. 
 
-Second, the challenge of font classification is that the font are countless, according to "Character-independent font identification" , they find that to distinguish the font 
+Second, according to "Character-independent font identification" , the challenge of font classification is that the font are countless and the font different is very small, for instance,
+![](image/font.png)
+Therefore, they provide the idea that train the model which can recognize the font different and base on subnet which learning the similar feature 
 
 ## Methodology 
 ### Dataset Generation
@@ -22,23 +24,24 @@ In order to simulate the background image which use the license, I used the inpa
 In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture, because it seems it do the best in classification task.
 ![](image/model.png)
 
-![](image/2.jpg)
-![](image/font.jpg)
 
-At first, the cla
 ## Experiments
 ### the random image + random color char:
-I found this is too difficult for the network to learning the feature map of the font. As the problem statement describe, which the different font has little pixel different, so the first model cannot train.
-### the white background + black char:
-I trained 
-1000=>2000=>30000
-Training from easy background to complex background.
-### the dark 
+I found this is too difficult for the network to learning the feature map of the font. As the problem statement describe, which the different font has little pixel different, so the first model cannot train. So I decide to make the model recognize from the simple text to the complex condition
+### the white background + black char (easiest):
+I trained 1000 for four font for the model. The model shows the high accuracy on this simple task.
+### the dark char + white background
+I trained 10000 for four font with the dark char, which means each RGB channel's value under 50. At this point the model performs well 
+some images here...
 ### the dark + 
+some images here...
 ## Results
 
 Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model conquer this problem. And the FPS is XX. Therefore, ArialFamily classification is finished.
 
 ## Examples 
 
-
+## Reference:
+Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3
+Char : https://arxiv.org/pdf/2001.08893.pdf
+SynthText: https://github.com/ankush-me/SynthText

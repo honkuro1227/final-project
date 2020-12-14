@@ -44,13 +44,13 @@ Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model 
 
 ## Examples 
 ![](sample/0.png)
-predict: arial
+predict: arial groundtruth: arial
 ![](sample/1.png)
-predict: arialbd
+predict: arialbd groundtruth:arialbd
 ![](sample/3.png)
-predict: arialbi
+predict: arialbi groundtruth:arialbi
 ![](sample/4.png)
-predict: arialli
+predict: arialli groundtruth:arialli
 ## Reference:
 Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3  
 Character-independent font identification : https://arxiv.org/pdf/2001.08893.pdf  

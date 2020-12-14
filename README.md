@@ -20,7 +20,7 @@ In order to simulate the background image which use the license, I used the inpa
 ![](image/image1.jpg)
 ### Architecture 
 In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture, because it seems it do the best in classification task.
-![](image/model.jpg)
+![](image/model.png)
 
 ![](image/2.jpg)
 ![](image/font.jpg)

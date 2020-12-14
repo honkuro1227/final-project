@@ -1,7 +1,9 @@
 # Font classification
 
 ## Abstract 
-This project try to finish the font classification task with the light computing resource.
+
+Optical character recognition is a critical task for  such as localization, mapping and obstacle detection. There has been a significant and growing interest in depth estimation from a single RGB image, due to the relatively low cost and size of monocular cameras. However, state-of-the-art single-view depth estimation algorithms are based on fairly complex deep neural networks that are too slow for real-time inference on an embedded platform, for instance, mounted on a micro aerial vehicle. In this project, I address the problem of fast font classification. I propose an efficient and lightweight network architecture. 
+
 ## Problem statement
 
 Nowadays, the fraud detection is very popular issue in deep learning world, because it is a value technique for large demand. For instance, the bank transaction needs to proof the id, or some test needs to verify the id first. In order to find the fraud in the Id, there are several way to approach.
@@ -18,7 +20,7 @@ In order to simulate the background image which use the license, I used the inpa
 ![](image/image1.jpg)
 ### Architecture 
 In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture, because it seems it do the best in classification task.
-// todo need the mobilenet V3 model image
+![](image/model.jpg)
 
 ![](image/2.jpg)
 ![](image/font.jpg)

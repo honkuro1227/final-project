@@ -1,16 +1,13 @@
-# Example Project
-
-Write a 3-4 sentence abstract. It should introduce the problem and your approach. You may also want some numbers like 35 mAP and 78% accuracy. You can use this example README for your project, you can use a different ordering for your website, or you can make a totally different website altogether!
-
-VIDEO GOES HERE (probably): Record a 2-3 minute long video presenting your work. One option - take all your figures/example images/charts that you made for your website and put them in a slide deck, then record the video over zoom or some other recording platform (screen record using Quicktime on Mac OS works well). The video doesn't have to be particularly well produced or anything.
+# Font classification on OCR 
 
 ## Introduction
-
+Nowadays, the fraud detection is very popular issue in deep learning world, because it is a value technique for large demand. For instance, the bank transaction needs to proof the id, or some test needs to verify the id first. In order to find the fraud in the Id, there are several way to approach.
 Currently, the text detection is the very popular topic. However, there are seldom article talks about font classification. In the fraud detection, the font type continuous is the important feature to distinguish the fake id. Therefore, this article will focus on the font classification.
 
 ## Related Work
+First, using the synthetic dataset on training text task is common approach, because training needs lots of data and label this data needs lots of time. Therefore, inspired by SyntheText, this project use the synthetic data to training network. 
 
-Nowadays, the font class is countless,
+Second, the challenge of font classification is that the font are countless, according to "Character-independent font identification" , they find that to distinguish the font 
 
 ## Approach
 
@@ -22,10 +19,8 @@ At first, the cla
 
 ## Results
 
-How did you evaluate your approach? How well did you do? What are you comparing to? Maybe you want ablation studies or comparisons of different methods.
-
-You may want some qualitative results and quantitative results. Example images/text/whatever are good. Charts are also good. Maybe loss curves or AUC charts. Whatever makes sense for your evaluation.
+Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model conquer this problem. And the 
 
 ## Discussion
 
-You can talk about your results and the stuff you've learned here if you want. Or discuss other things. Really whatever you want, it's your project.
+

@@ -49,7 +49,7 @@ predict: arial groundtruth: arial
 predict: arialbd groundtruth:arialbd
 ![](sample/3.png)
 predict: arialbi groundtruth:arialbi
-![](sample/4.png)
+![](sample/12.png)
 predict: arialli groundtruth:arialli
 ## Reference:
 Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3  

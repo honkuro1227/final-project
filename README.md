@@ -45,6 +45,6 @@ Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model 
 ## Examples 
 
 ## Reference:
-Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3
-Char : https://arxiv.org/pdf/2001.08893.pdf
+Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3 \n
+Char : https://arxiv.org/pdf/2001.08893.pdf \n
 SynthText: https://github.com/ankush-me/SynthText

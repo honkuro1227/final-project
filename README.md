@@ -51,7 +51,6 @@ predict: arialbi groundtruth:arialbi
 ![](sample/12.png)
 predict: arialli groundtruth:arialli
 ## Reference:
-## Reference:
 Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3  
 Character-independent font identification : https://arxiv.org/pdf/2001.08893.pdf  
 SynthText: https://github.com/ankush-me/SynthText

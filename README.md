@@ -32,9 +32,12 @@ I found this is too difficult for the network to learning the feature map of the
 I trained 1000 for four font for the model. The model shows the high accuracy on this simple task.
 ### the dark char + white background
 I trained 10000 for four font with the dark char, which means each RGB channel's value under 50. At this point the model performs well 
-some images here...
-### the dark + 
-some images here...
+![](image/0b.png) 
+![](image/1b.png)
+### the dark char + color background
+Finally, I trained the 30000 for four fonts with dark char and color background.
+![](image/0.png) 
+![](image/1.png)
 ## Results
 
 Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model conquer this problem. And the FPS is XX. Therefore, ArialFamily classification is finished.

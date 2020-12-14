@@ -43,8 +43,15 @@ Finally, I trained the 30000 for four fonts with dark char and color background.
 Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model conquer this problem. And the FPS is XX. Therefore, ArialFamily classification is finished.
 
 ## Examples 
-
+![](sample/0.png)
+predict: arial
+![](sample/1.png)
+predict: arialbd
+![](sample/3.png)
+predict: arialbi
+![](sample/4.png)
+predict: arialli
 ## Reference:
 Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3  
-Char : https://arxiv.org/pdf/2001.08893.pdf  
+Character-independent font identification : https://arxiv.org/pdf/2001.08893.pdf  
 SynthText: https://github.com/ankush-me/SynthText

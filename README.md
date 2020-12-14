@@ -13,18 +13,26 @@ First, using the synthetic dataset on training text task is common approach, bec
 Second, the challenge of font classification is that the font are countless, according to "Character-independent font identification" , they find that to distinguish the font 
 
 ## Methodology 
-
-In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture.
+### Dataset Generation
+In order to simulate the background image which use the license, I used the inpainting algorithm to remove the text in the background, then paint the text on it. As the following picture:
+![](image/image1.jpg)
+### Architecture 
+In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture, because it seems it do the best in classification task.
 // todo need the mobilenet V3 model image
 
 ![](image/2.jpg)
 ![](image/font.jpg)
-![](image/image1.jpg)
+
 At first, the cla
 ## Experiments
+### the random image + random color char:
+I found this is too difficult for the network to learning the feature map of the font. As the problem statement describe, which the different font has little pixel different, so the first model cannot train.
+### the white background + black char:
+I trained 
 1000=>2000=>30000
 Training from easy background to complex background.
-
+### the dark 
+### the dark + 
 ## Results
 
 Overall, the accuracy of ArialFamily is 96% on test dataset. It seems the model conquer this problem. And the FPS is XX. Therefore, ArialFamily classification is finished.

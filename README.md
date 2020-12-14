@@ -15,6 +15,7 @@ Nowadays, the font class is countless,
 ## Approach
 
 In order to run on the light resource demand environment, I decided to run on the light computing environment. After studying mobilenet, efficentnet, tinynet, I decided to use the mobilenet V3 to be the network architecture.
+![](image/2.jpg)
 
 At first, the cla
 

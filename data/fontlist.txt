@@ -1,0 +1,4 @@
+font/arial.ttf
+font/arialbd.ttf
+font/arialbi.ttf
+font/ariali.ttf

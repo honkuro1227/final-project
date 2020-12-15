@@ -50,6 +50,8 @@ predict: arialbd groundtruth:arialbd
 predict: arialbi groundtruth:arialbi
 ![](sample/12.png)
 predict: arialli groundtruth:arialli
+## Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Nqo-sHDLOyU/0.jpg)](https://www.youtube.com/watch?v=Nqo-sHDLOyU)
 ## Reference:
 Mobilenet V3 :https://github.com/kuan-wang/pytorch-mobilenet-v3  
 Character-independent font identification : https://arxiv.org/pdf/2001.08893.pdf  

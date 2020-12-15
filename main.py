@@ -495,5 +495,5 @@ def main(foldername,chkptfn,i,fontlist):
 fn='sample'
 chkptfn='chkpt'
 fontlist='fontlist.txt'
-main(fn,chkptfn,71,fontlist)
+main(fn,chkptfn,30,fontlist)
 
